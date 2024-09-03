@@ -15,6 +15,9 @@
 
 </head>
 <body>
+  <!--Navbar-->
+    <?php include"nav.php";?>
+    <!-- End of Navbar-->
   <div class="container mt-3 text"><h1>Wonders of Sri Lanka</h1></div>
   <!-- slide show -->
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
